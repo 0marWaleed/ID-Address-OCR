@@ -60,6 +60,5 @@ Sample output:
 ## ⚙️ Installation
 Clone the repo and install the requirements:
 ```bash
-git clone https://github.com/your-username/ID-Address-OCR.git
+git clone https://github.com/0marWaleed/ID-Address-OCR.git
 cd ID-Address-OCR
-pip install -r requirements.txt
